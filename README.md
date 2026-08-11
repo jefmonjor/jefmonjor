@@ -2,9 +2,9 @@
 
 # Hola, soy Jefferson 👋
 
-**Solutions Architect @ Andbank** · Backend Java/Spring · AI Product Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solutions+Architect+%40+Andbank;Backend+Java+%C2%B7+Spring+Boot+3+%C2%B7+Hexagonal;AI+Product+Builder+%C2%B7+Claude+%C2%B7+MCP;idea+%E2%86%92+prototype+%E2%86%92+production)](https://github.com/jefmonjor)
 
-[![Portfolio](https://img.shields.io/badge/jefmonjor.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jefmonjor.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio_·_próximamente-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefmonjor/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefmonjor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefmonjor@gmail.com)
 
@@ -35,7 +35,7 @@ const jefferson = {
 | **FinTrackJ** | SaaS de finanzas personales multi-banco con insights IA | Next.js 15 · Drizzle · Neon · Claude API |
 | **Facturación IA** | Facturación conforme a VERI*FACTU con extracción IA | Next.js · Claude API · PostgreSQL |
 | **eCommerce headless** | Tienda MedusaJS con búsqueda y recomendaciones IA | MedusaJS · Next.js · Vercel AI SDK |
-| **[jefmonjor.dev](https://jefmonjor.dev)** | Este portfolio: terminal interactiva + CV PDF autogenerado | Next.js · tRPC · Zod · next-intl |
+| **[Portfolio](https://github.com/jefmonjor/portfolio)** | jefmonjor.dev: terminal interactiva + CV PDF autogenerado | Next.js · tRPC · Zod · next-intl |
 
 ## 🛠️ Stack
 
@@ -58,6 +58,18 @@ const jefferson = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefmonjor&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmonjor&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake.svg">
+</picture>
 
 </div>
 
