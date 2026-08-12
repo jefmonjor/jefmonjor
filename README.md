@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solutions+Architect+%40+Andbank;Backend+Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Hexagonal;AI+Product+Builder+%C2%B7+8+productos+propios;idea+%E2%86%92+prototype+%E2%86%92+production)](https://github.com/jefmonjor)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_·_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/jefmonjor.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jefmonjor.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefmonjor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefmonjor@gmail.com)
 
@@ -41,7 +41,7 @@ const jefferson = {
 | **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
 | **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
 | **Tavory** | Memoria gastronómica privada con OCR IA, mapa y suscripción | Next.js 16 · Supabase · PostGIS · Stripe · Mapbox |
-| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [Web en vivo](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app) donde la **IA trabaja para el visitante**: pregúntale al asistente lo que quieras sobre mi perfil, o pega tu oferta y el CV se adapta al puesto (también en versión completa y ATS). En ES · EN · CA, con terminal interactiva — prueba el comando `web` | Next.js · TypeScript · OpenAI · tRPC · next-intl |
+| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [jefmonjor.dev](https://jefmonjor.dev) donde la **IA trabaja para el visitante**: pregúntale al asistente lo que quieras sobre mi perfil, o pega tu oferta y el CV se adapta al puesto (también en versión completa y ATS). En ES · EN · CA, con terminal interactiva — prueba el comando `web` | Next.js · TypeScript · OpenAI · tRPC · next-intl |
 
 ## 🛠️ Stack
 
