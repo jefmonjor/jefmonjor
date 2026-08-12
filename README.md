@@ -18,6 +18,7 @@ const jefferson = {
   nights: "Shipping AI-powered products: Claude Code, Codex, Gemini & MCP workflows",
   deploys: ["VPS propio (Docker)", "Vercel", "Google Cloud Run"],
   openTo: "Andorra · España · Remote (EU timezone)",
+  superpower: "capacidad de adaptación — de COBOL a agentes de IA",
   motto: "idea → prototype → production, in days not months",
 }
 ```
@@ -40,7 +41,7 @@ const jefferson = {
 | **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
 | **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
 | **Tavory** | Memoria gastronómica privada con OCR IA, mapa y suscripción | Next.js 16 · Supabase · PostGIS · Stripe · Mapbox |
-| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [Web en vivo](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app): asistente IA con dossier cerrado, CV inteligente (completo/ATS/adaptado a oferta con IA), terminal interactiva e identidad modern-minimal propia con sistema de diseño documentado | Next.js · TypeScript · OpenAI · tRPC · next-intl |
+| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [Web en vivo](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app) donde la **IA trabaja para el visitante**: pregúntale al asistente lo que quieras sobre mi perfil, o pega tu oferta y el CV se adapta al puesto (también en versión completa y ATS). En ES · EN · CA, con terminal interactiva — prueba el comando `web` | Next.js · TypeScript · OpenAI · tRPC · next-intl |
 
 ## 🛠️ Stack
 
@@ -54,6 +55,7 @@ const jefferson = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
