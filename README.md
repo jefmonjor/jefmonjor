@@ -40,7 +40,7 @@ const jefferson = {
 | **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
 | **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
 | **Tavory** | Memoria gastronómica privada con OCR IA, mapa y suscripción | Next.js 16 · Supabase · PostGIS · Stripe · Mapbox |
-| **[Portfolio](https://github.com/jefmonjor/portfolio)** | Esta web: asistente IA con dossier cerrado, CV inteligente (completo/ATS/adaptado a oferta) y diseño editorial | Next.js · TypeScript · OpenAI · tRPC · next-intl |
+| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [Web en vivo](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app): asistente IA con dossier cerrado, CV inteligente (completo/ATS/adaptado a oferta con IA), terminal interactiva e identidad modern-minimal propia con sistema de diseño documentado | Next.js · TypeScript · OpenAI · tRPC · next-intl |
 
 ## 🛠️ Stack
 
