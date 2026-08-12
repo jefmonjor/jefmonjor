@@ -2,9 +2,9 @@
 
 # Hola, soy Jefferson 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solutions+Architect+%40+Andbank;Backend+Java+%C2%B7+Spring+Boot+3+%C2%B7+Hexagonal;AI+Product+Builder+%C2%B7+Claude+%C2%B7+MCP;idea+%E2%86%92+prototype+%E2%86%92+production)](https://github.com/jefmonjor)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solutions+Architect+%40+Andbank;Backend+Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Hexagonal;AI+Product+Builder+%C2%B7+8+productos+propios;idea+%E2%86%92+prototype+%E2%86%92+production)](https://github.com/jefmonjor)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_·_próximamente-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jefmonjor/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio_·_en_vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-drab-fsvg6tmcd2.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefmonjor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefmonjor@gmail.com)
 
@@ -12,10 +12,12 @@
 
 ```typescript
 const jefferson = {
-  location: "Andorra 🇦🇩 (CET)",
+  location: "Andorra 🇦🇩 · España 🇪🇸 (CET)",
   role: "Solutions Architect / Technical PM",
   dayJob: "Banking architecture: Java 21 · Spring Boot 3 · hexagonal · COBOL/AS400 integration",
-  nights: "Shipping AI products with Claude, MCP workflows & Next.js",
+  nights: "Shipping AI-powered products: Claude Code, Codex, Gemini & MCP workflows",
+  deploys: ["VPS propio (Docker)", "Vercel", "Google Cloud Run"],
+  openTo: "Andorra · España · Remote (EU timezone)",
   motto: "idea → prototype → production, in days not months",
 }
 ```
@@ -25,17 +27,20 @@ const jefferson = {
 - **De día** — Arquitectura backend en banca privada: Clean Architecture, microservicios,
   migraciones complejas (Spring Boot 2→3, Tomcat en +40 VMs), Keycloak con MFA,
   integración con sistemas core (COBOL, AS400, DB2) sobre OpenShift.
-- **De noche** — Productos completos construidos con IA: uso Claude Code, Codex y
-  flujos MCP a diario para pasar de idea a aplicación en producción.
+- **De noche** — Ocho productos propios en producción, construidos con IA en el flujo
+  de trabajo real (Claude Code, Codex, Gemini, spec-driven development) y desplegados
+  en mi propio VPS, Vercel y Google Cloud con CI/CD.
 
 ## 🚀 Proyectos
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **FinTrackJ** | SaaS de finanzas personales multi-banco con insights IA | Next.js 15 · Drizzle · Neon · Claude API |
-| **Facturación IA** | Facturación conforme a VERI*FACTU con extracción IA | Next.js · Claude API · PostgreSQL |
-| **eCommerce headless** | Tienda MedusaJS con búsqueda y recomendaciones IA | MedusaJS · Next.js · Vercel AI SDK |
-| **[Portfolio](https://github.com/jefmonjor/portfolio)** | jefmonjor.dev: terminal interactiva + CV PDF autogenerado | Next.js · tRPC · Zod · next-intl |
+| **Trasolido** | Facturación conforme a VERI*FACTU: backend potente con login propio (JWT) y extracción de facturas con IA | Java 21 · Spring Boot · Neon · Upstash Redis · Cloud Run |
+| **Other Tales** | Plataforma all-in-one para escritores: app offline-first + backend hexagonal | Flutter · Java 21 · Spring Boot 3 · PostgreSQL · Docker |
+| **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
+| **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
+| **Tavory** | Memoria gastronómica privada con OCR IA, mapa y suscripción | Next.js 16 · Supabase · PostGIS · Stripe · Mapbox |
+| **[Portfolio](https://github.com/jefmonjor/portfolio)** | Esta web: asistente IA con dossier cerrado, CV inteligente (completo/ATS/adaptado a oferta) y diseño editorial | Next.js · TypeScript · OpenAI · tRPC · next-intl |
 
 ## 🛠️ Stack
 
@@ -44,13 +49,17 @@ const jefferson = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ## 📊 Stats
 
