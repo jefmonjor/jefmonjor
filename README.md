@@ -18,6 +18,7 @@ const jefferson = {
   nights: "Shipping AI-powered products: Claude Code, Codex, Gemini & MCP workflows",
   deploys: ["VPS propio (Docker)", "Vercel", "Google Cloud Run"],
   openTo: "Andorra · España · Remote (EU timezone)",
+  superpower: "capacidad de adaptación — de COBOL a agentes de IA",
   motto: "idea → prototype → production, in days not months",
 }
 ```
@@ -54,6 +55,7 @@ const jefferson = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
