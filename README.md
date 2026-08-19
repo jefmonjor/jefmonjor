@@ -36,7 +36,7 @@ const jefferson = {
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Trasolido** | Facturación conforme a VERI*FACTU: backend potente con login propio (JWT) y extracción de facturas con IA | Java 21 · Spring Boot · Neon · Upstash Redis · Cloud Run |
+| **[Transolido](https://transolido.com)** | Facturación conforme a VERI*FACTU: backend potente con login propio (JWT) y extracción de facturas con IA | Java 21 · Spring Boot · Neon · Upstash Redis · Cloud Run |
 | **Other Tales** | Plataforma all-in-one para escritores: app offline-first + backend hexagonal | Flutter · Java 21 · Spring Boot 3 · PostgreSQL · Docker |
 | **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
 | **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
