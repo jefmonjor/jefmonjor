@@ -1,91 +1,51 @@
-<div align="center">
+# Jefferson Montesdeoca Jordán
 
-# Hola, soy Jefferson 👋
+**Product Engineer focused on AI & backend · Java/Spring · architecture**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Solutions+Architect+%40+Andbank;Backend+Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Hexagonal;AI+Product+Builder+%C2%B7+8+productos+propios;idea+%E2%86%92+prototype+%E2%86%92+production)](https://github.com/jefmonjor)
+Arquitecto de Soluciones / Technical PM en Andbank, en Andorra la Vella. Más de seis años construyendo y modernizando software para banca, legal y energía, con especial atención a backend, integración de sistemas y decisiones de producto que llegan hasta producción.
 
-[![Portfolio](https://img.shields.io/badge/jefmonjor.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jefmonjor.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefmonjor)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefmonjor@gmail.com)
+[Portfolio](https://jefmonjor.dev) · [LinkedIn](https://www.linkedin.com/in/jefmonjor)
 
-</div>
+## En qué trabajo mejor
 
-```typescript
-const jefferson = {
-  location: "Andorra 🇦🇩 · España 🇪🇸 (CET)",
-  role: "Solutions Architect / Technical PM",
-  dayJob: "Banking architecture: Java 21 · Spring Boot 3 · hexagonal · COBOL/AS400 integration",
-  nights: "Shipping AI-powered products: Claude Code, Codex, Gemini & MCP workflows",
-  deploys: ["VPS propio (Docker)", "Vercel", "Google Cloud Run"],
-  openTo: "Andorra · España · Remote (EU timezone)",
-  superpower: "capacidad de adaptación — de COBOL a agentes de IA",
-  motto: "idea → prototype → production, in days not months",
-}
-```
+- Backend con Java 21, Spring Boot 3 y arquitecturas hexagonales o modulares.
+- Integración de sistemas legacy, APIs, identidad y plataformas de datos.
+- Productos de principio a fin: problema, contratos, interfaz, despliegue y operación.
+- IA aplicada donde aporta valor, con datos validados, límites explícitos y alternativas manuales.
 
-## 🏗️ Lo que hago
+## Productos seleccionados
 
-- **De día** — Arquitectura backend en banca privada: Clean Architecture, microservicios,
-  migraciones complejas (Spring Boot 2→3, Tomcat en +40 VMs), Keycloak con MFA,
-  integración con sistemas core (COBOL, AS400, DB2) sobre OpenShift.
-- **De noche** — Ocho productos propios en producción, construidos con IA en el flujo
-  de trabajo real (Claude Code, Codex, Gemini, spec-driven development) y desplegados
-  en mi propio VPS, Vercel y Google Cloud con CI/CD.
+| Producto                                      | Estado                                                               | Evidencia                                                                                          |
+| --------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Transolido](https://transolido.com)          | En funcionamiento · público                                          | Facturación VERI\*FACTU sobre Java 21/Spring Boot, PostgreSQL, Redis y extracción asistida por IA. |
+| [PRONOQ](https://pronoq.jefmonjor.dev)        | En funcionamiento · público                                          | PWA trilingüe; la IA explica resultados, pero no decide pronósticos.                               |
+| [Corte1D](https://corte1d.jefmonjor.dev)      | En funcionamiento · público                                          | Optimización de corte en un motor determinista, importaciones y control de stock.                  |
+| [Contact QR](https://contactqr.jefmonjor.dev) | En funcionamiento · público                                          | Utilidad ligera para generar y compartir una vCard mediante QR.                                    |
+| [Portfolio](https://jefmonjor.dev)            | En funcionamiento · [código](https://github.com/jefmonjor/portfolio) | Next.js, TypeScript, tRPC, Zod, CVs generados y asistente basado en un dossier cerrado.            |
+| Other Tales · Tavory                          | En desarrollo · privados                                             | Productos donde exploro offline-first, backend Java y extracción estructurada con IA.              |
 
-## 🚀 Proyectos
+## IA con criterio
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Trasolido** | Facturación conforme a VERI*FACTU: backend potente con login propio (JWT) y extracción de facturas con IA | Java 21 · Spring Boot · Neon · Upstash Redis · Cloud Run |
-| **Other Tales** | Plataforma all-in-one para escritores: app offline-first + backend hexagonal | Flutter · Java 21 · Spring Boot 3 · PostgreSQL · Docker |
-| **PRONOQ** | Porra de fútbol entre amigos: PWA con marcador en vivo y análisis IA (ES·EN·CA) | Next.js · PostgreSQL · PWA · VPS propio |
-| **Corte1D** | SaaS de taller: optimización de corte 1D determinista + control de stock | Next.js · Neon · ExcelJS · Backblaze B2 |
-| **Tavory** | Memoria gastronómica privada con OCR IA, mapa y suscripción | Next.js 16 · Supabase · PostGIS · Stripe · Mapbox |
-| **[Portfolio](https://github.com/jefmonjor/portfolio)** | [jefmonjor.dev](https://jefmonjor.dev) donde la **IA trabaja para el visitante**: pregúntale al asistente lo que quieras sobre mi perfil, o pega tu oferta y el CV se adapta al puesto (también en versión completa y ATS). En ES · EN · CA, con terminal interactiva — prueba el comando `web` | Next.js · TypeScript · OpenAI · tRPC · next-intl |
+En mis productos separo lo probabilístico de lo determinista:
 
-## 🛠️ Stack
+- Los datos que cruzan fronteras se tipan y validan en runtime.
+- El asistente de mi portfolio recibe un dossier público cerrado y debe reconocer cuándo falta información.
+- Los flujos importantes conservan una alternativa manual.
+- El consumo de IA está limitado por visitante y por un techo global diario.
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+## Mi CV, en el formato que prefieras
 
-## 📊 Stats
+Los cuatro salen de la misma fuente de datos, así que nunca se contradicen:
 
-<div align="center">
+- [`/cv.pdf`](https://jefmonjor.dev/cv.pdf?variant=technical) — PDF técnico de una columna. `variant=general` devuelve el editorial.
+- [`/cv.md`](https://jefmonjor.dev/cv.md) — el mismo CV en texto plano.
+- [`/cv.json`](https://jefmonjor.dev/cv.json) — en [MAC](https://github.com/getmanfred/mac), el esquema abierto de CV.
+- [`/llms.txt`](https://jefmonjor.dev/llms.txt) — resumen del perfil para sistemas de recuperación.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jefmonjor&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefmonjor&layout=compact&theme=github_dark&hide_border=true)
+En el portfolio hay una cuarta versión: pega una oferta y el CV prioriza la evidencia que ya consta en el perfil, sin añadir experiencia ni tecnologías.
 
-</div>
+## Stack habitual
 
-## 🐍 Contribuciones
+`Java` · `Spring Boot` · `TypeScript` · `Next.js` · `PostgreSQL` · `Docker` · `OpenShift` · `Keycloak` · `Zod` · `OpenAI/Claude APIs`
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jefmonjor/jefmonjor/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ "You build it, you run it" · Construido con la misma filosofía que mis proyectos: directo a producción</sub>
-</div>
+Abierto selectivamente a oportunidades relevantes en Andorra, España o remoto dentro de zonas horarias europeas. La mejor forma de contactar está en [mi portfolio](https://jefmonjor.dev/es#contact).
