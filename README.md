@@ -1,10 +1,12 @@
 # Jefferson Montesdeoca Jordán
 
-**Product Engineer focused on AI & backend · Java/Spring · architecture**
+**Software Architect & Senior Backend Engineer · Java/Spring · arquitectura · IA aplicada**
 
-Arquitecto de Soluciones / Technical PM en Andbank, en Andorra la Vella. Más de seis años construyendo y modernizando software para banca, legal y energía, con especial atención a backend, integración de sistemas y decisiones de producto que llegan hasta producción.
+Diseño y construyo los sistemas backend sobre los que funcionan bancos y fintechs, y la IA que empieza a funcionar dentro de ellos. Hoy, Arquitecto de Soluciones / Technical PM en Andbank, en Andorra la Vella; siete años construyendo y modernizando software para banca, legal, energía y telecomunicaciones.
 
-[Portfolio](https://jefmonjor.dev) · [LinkedIn](https://www.linkedin.com/in/jefmonjor)
+Disponible para colaboraciones a tiempo parcial desde enero de 2027 · Remoto · CET.
+
+[jefmonjor.dev](https://jefmonjor.dev/es) · [Servicios](https://jefmonjor.dev/es/services) · [Casos](https://jefmonjor.dev/es/work) · [CV](https://jefmonjor.dev/es/cv) · [LinkedIn](https://www.linkedin.com/in/jefmonjor)
 
 ## En qué trabajo mejor
 
@@ -23,7 +25,7 @@ Arquitecto de Soluciones / Technical PM en Andbank, en Andorra la Vella. Más de
 | [Ilnami](https://ilnami.com)                  | En funcionamiento · público                                          | Diario gastronómico privado (PWA): escaneo con IA revisado antes de guardar, círculos privados y RLS. |
 | [Other Twist](https://othertwist.com)         | En funcionamiento · público                                          | Plataforma para escritores: app Flutter offline-first sobre backend Java 21/Spring Boot hexagonal; acceso en app.othertwist.com. |
 | [Contact QR](https://contactqr.jefmonjor.dev) | En funcionamiento · público                                          | Utilidad ligera para generar y compartir una vCard mediante QR.                                       |
-| [Portfolio](https://jefmonjor.dev)            | En funcionamiento · [código](https://github.com/jefmonjor/portfolio) | Next.js, TypeScript, tRPC, Zod, CVs generados y asistente basado en un dossier cerrado.               |
+| [Portfolio](https://jefmonjor.dev)            | En funcionamiento · [código](https://github.com/jefmonjor/portfolio) | Next.js, TypeScript, Zod, CVs generados y asistente basado en un dossier cerrado.               |
 | Tavory                                        | En desarrollo · privado                                              | Producto donde exploro extracción estructurada con IA.                                                |
 
 ## IA con criterio
@@ -51,4 +53,4 @@ Y en el portfolio, una versión más: pega una oferta y el CV prioriza la eviden
 
 `Java` · `Spring Boot` · `TypeScript` · `Next.js` · `PostgreSQL` · `Docker` · `OpenShift` · `Keycloak` · `Zod` · `OpenAI/Claude APIs`
 
-Abierto selectivamente a oportunidades relevantes en Andorra, España o remoto dentro de zonas horarias europeas. La mejor forma de contactar está en [mi portfolio](https://jefmonjor.dev/es#contact).
+Technical Advisory, Engineering Delivery y Fractional Architecture, a tiempo parcial desde enero de 2027. Para hablar de un proyecto: [jefmonjor.dev/es/contact](https://jefmonjor.dev/es/contact).
