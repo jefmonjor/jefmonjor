@@ -1,10 +1,10 @@
 # Jefferson Montesdeoca Jordán
 
-**Senior Software Engineer · Software Architect · Java/Spring · integraciones · IA aplicada**
+**Software Architect · Senior Backend Engineer · Java/Spring · integraciones · IA aplicada**
 
-Desarrollo software a medida, integraciones y automatizaciones con IA para pymes. Trabajo en el equipo de arquitectura y soluciones de Andbank (Andorra) y llevo siete años en proyectos de banca, legal, energía y telecomunicaciones.
+Construyo los sistemas backend sobre los que funcionan las empresas, y los productos que funcionan encima. Trabajo en el equipo de arquitectura y soluciones de Andbank (Andorra): Java, Spring, integración con el core bancario e identidad. Siete años en banca, legal, energía y telecomunicaciones.
 
-Disponible para nuevos proyectos a partir de enero de 2027 · Remoto · CET.
+Abierto a proyectos y al puesto adecuado a jornada completa · Remoto · CET.
 
 [jefmonjor.dev](https://jefmonjor.dev/es) · [Servicios](https://jefmonjor.dev/es/services) · [Casos](https://jefmonjor.dev/es/work) · [CV](https://jefmonjor.dev/es/cv) · [Contacto](https://jefmonjor.dev/es/contact) · [LinkedIn](https://www.linkedin.com/in/jefmonjor)
 
@@ -14,7 +14,7 @@ Disponible para nuevos proyectos a partir de enero de 2027 · Remoto · CET.
 - **Construir e integrar:** software a medida, APIs e integraciones con tu ERP, banco o tienda online, y automatizaciones con IA revisada por una persona, hasta producción.
 - **Tech lead fraccional:** acompañamiento técnico mensual para empresas sin responsable técnico.
 
-Tratas directamente conmigo, sin intermediarios. En [jefmonjor.dev](https://jefmonjor.dev/es) tienes un asistente de IA y una terminal (`Ctrl K`) para preguntar por servicios, casos o disponibilidad, y un brief de proyecto que prepara el correo por ti.
+Tratas directamente conmigo, sin intermediarios. En [jefmonjor.dev](https://jefmonjor.dev/es) tienes un asistente de IA y una terminal (`Ctrl K`) para preguntar por servicios, casos o disponibilidad, y un brief de proyecto que me llega directamente.
 
 ## Productos propios en producción
 
